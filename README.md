@@ -10,7 +10,8 @@ Este é um projeto de um sistema de gerenciamento compras para loja, desenvolvid
 
 * Banco de dados -> postgreSQL;
 * Spring boot;
-* JUnit -> Para testes.
+* JUnit -> Para testes;
+* Endpoints.
 
 <h3>Recursos Disponíveis </h3>
 O sistema oferece os seguintes recursos:
